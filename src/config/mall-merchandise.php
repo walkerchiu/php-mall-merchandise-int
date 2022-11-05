@@ -36,7 +36,7 @@ return [
         'morph-tag'      => 1,
         'rule'           => 0,
         'rule-hit'       => 0,
-        'site'           => 0
+        'site-mall'      => 0,
     ],
 
     /*
